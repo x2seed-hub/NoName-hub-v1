@@ -22,7 +22,7 @@ repeat
     wait()
 until game.Players.LocalPlayer
 --main
-local ui_link = "https://pastebin.com/raw/UxVey1me"
+local ui_link = "https://pastebin.com/b2DcH3Gf"
 local a = loadstring(game:HttpGet(ui_link))()
 local a = a:Window("[ อัพเดทล่าสุด ] | [ ภาษาไทย ]")
 local HomePage = a:Tab("ผู้สร้าง", "rbxassetid://127873067359910")
